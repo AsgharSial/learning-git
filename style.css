@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+div{
+    max-width: 800px;
+    margin: 300px auto;
+}
+div p{
+    color: white;
+    font-weight: 900;
+    text-align: center;
+    font-size: x-large;
+}
